@@ -4,27 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.projects.pobject
+namespace Domain.projects.TaskList.tojbect
 {
-    internal record IdProject
+    internal record TaskId
     {
         public Guid Id { get; }
-        private IdProject(Guid id)
+        private TaskId(Guid id)
         {
             Id = id;
         }
-        public static IdProject Create(Guid value)
+        public static TaskId Create(Guid value)
         {
             if (Guid.Empty == value)
             {
                 throw new ArgumentNullException("Что-то пошло не так.");
             }
-            return new IdProject(value);
+            return new TaskId(value);
         }
-        public static IdProject Create()
+        public static TaskId Create()
         {
             Guid id = Guid.NewGuid();
-            return new IdProject(id);
+            return new TaskId(id);
         }
 
     }

@@ -3,72 +3,20 @@
   "WorkspaceRootPath": "D:\\ladys\\src\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\pobject\\idproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\pobject\\idproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\users\\uobject\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\users\\uobject\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\pobject\\startdataproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\pobject\\startdataproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\users\\uobject\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\users\\uobject\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\pobject\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\pobject\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\tasklist\\tojbect\\nameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\tasklist\\tojbect\\nameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\users\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\users\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\users\\uobject\\listprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\users\\uobject\\listprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\users\\uobject\\listtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\users\\uobject\\listtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\users\\uobject\\special.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\users\\uobject\\special.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\users\\uobject\\userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\users\\uobject\\userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\users\\uobject\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\users\\uobject\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\tasklist\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\tasklist\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\tasklist\\tojbect\\taskid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\tasklist\\tojbect\\taskid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\tasklist\\tojbect\\startdatatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\tasklist\\tojbect\\startdatatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\tasklist\\tojbect\\progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\tasklist\\tojbect\\progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\tasklist\\tojbect\\memberstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\tasklist\\tojbect\\memberstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\tasklist\\tojbect\\lvlimortance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\tasklist\\tojbect\\lvlimortance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\tasklist\\tojbect\\finishdatatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\tasklist\\tojbect\\finishdatatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|d:\\ladys\\src\\oop\\domain\\projects\\database\\configurations\\projectentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0850A1B3-2AB9-4AFC-A9FB-9ED5550698CC}|Domain\\Domain.csproj|solutionrelative:domain\\projects\\database\\configurations\\projectentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,227 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Task.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\Task.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\TaskList\\Task.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\Task.cs",
-              "RelativeToolTip": "Domain\\projects\\TaskList\\Task.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwB4AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "Domain\\users\\uobject\\PhoneNumber.cs",
+              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\PhoneNumber.cs",
+              "RelativeToolTip": "Domain\\users\\uobject\\PhoneNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T04:00:47.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListProjects.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\ListProjects.cs",
-              "RelativeDocumentMoniker": "Domain\\users\\uobject\\ListProjects.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\ListProjects.cs",
-              "RelativeToolTip": "Domain\\users\\uobject\\ListProjects.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:44:10.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ListTasks.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\ListTasks.cs",
-              "RelativeDocumentMoniker": "Domain\\users\\uobject\\ListTasks.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\ListTasks.cs",
-              "RelativeToolTip": "Domain\\users\\uobject\\ListTasks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:45:39.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Special.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\Special.cs",
-              "RelativeDocumentMoniker": "Domain\\users\\uobject\\Special.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\Special.cs",
-              "RelativeToolTip": "Domain\\users\\uobject\\Special.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:43:41.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TaskId.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\TaskId.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\TaskList\\tojbect\\TaskId.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\TaskId.cs",
-              "RelativeToolTip": "Domain\\projects\\TaskList\\tojbect\\TaskId.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T04:03:08.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StartDataTask.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\StartDataTask.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\TaskList\\tojbect\\StartDataTask.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\StartDataTask.cs",
-              "RelativeToolTip": "Domain\\projects\\TaskList\\tojbect\\StartDataTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T04:07:31.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Progres.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\Progres.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\TaskList\\tojbect\\Progres.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\Progres.cs",
-              "RelativeToolTip": "Domain\\projects\\TaskList\\tojbect\\Progres.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T04:08:37.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserName.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\UserName.cs",
-              "RelativeDocumentMoniker": "Domain\\users\\uobject\\UserName.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\UserName.cs",
-              "RelativeToolTip": "Domain\\users\\uobject\\UserName.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:47:25.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserId.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\UserId.cs",
-              "RelativeDocumentMoniker": "Domain\\users\\uobject\\UserId.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\UserId.cs",
-              "RelativeToolTip": "Domain\\users\\uobject\\UserId.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:29:58.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserBuilder.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\users\\UserBuilder.cs",
-              "RelativeDocumentMoniker": "Domain\\users\\UserBuilder.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\users\\UserBuilder.cs",
-              "RelativeToolTip": "Domain\\users\\UserBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:47:20.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\users\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\users\\User.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\users\\User.cs",
-              "RelativeToolTip": "Domain\\users\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:46:57.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskList.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\pobject\\TaskList.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\pobject\\TaskList.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\pobject\\TaskList.cs",
-              "RelativeToolTip": "Domain\\projects\\pobject\\TaskList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:52:10.265Z",
+              "WhenOpened": "2025-10-09T06:00:50.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StartDataProject.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\pobject\\StartDataProject.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\pobject\\StartDataProject.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\pobject\\StartDataProject.cs",
-              "RelativeToolTip": "Domain\\projects\\pobject\\StartDataProject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\UserStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\users\\uobject\\UserStatus.cs",
+              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\users\\uobject\\UserStatus.cs",
+              "RelativeToolTip": "Domain\\users\\uobject\\UserStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T19:54:09.729Z",
+              "WhenOpened": "2025-10-09T05:56:53.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IdProject.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\pobject\\IdProject.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\pobject\\IdProject.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\pobject\\IdProject.cs",
-              "RelativeToolTip": "Domain\\projects\\pobject\\IdProject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ProjectEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\Database\\Configurations\\ProjectEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\projects\\Database\\Configurations\\ProjectEntityConfiguration.cs",
+              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\Database\\Configurations\\ProjectEntityConfiguration.cs",
+              "RelativeToolTip": "Domain\\projects\\Database\\Configurations\\ProjectEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T19:54:08.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T22:22:15.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MembersTask.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\MembersTask.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\TaskList\\tojbect\\MembersTask.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\MembersTask.cs",
-              "RelativeToolTip": "Domain\\projects\\TaskList\\tojbect\\MembersTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "NameProject.cs",
+              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\NameProject.cs",
+              "RelativeDocumentMoniker": "Domain\\projects\\TaskList\\tojbect\\NameProject.cs",
+              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\NameProject.cs",
+              "RelativeToolTip": "Domain\\projects\\TaskList\\tojbect\\NameProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T04:35:49.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LvlImortance.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\LvlImortance.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\TaskList\\tojbect\\LvlImortance.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\LvlImortance.cs",
-              "RelativeToolTip": "Domain\\projects\\TaskList\\tojbect\\LvlImortance.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T04:49:28.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FinishDataTask.cs",
-              "DocumentMoniker": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\FinishDataTask.cs",
-              "RelativeDocumentMoniker": "Domain\\projects\\TaskList\\tojbect\\FinishDataTask.cs",
-              "ToolTip": "D:\\ladys\\src\\OOP\\Domain\\projects\\TaskList\\tojbect\\FinishDataTask.cs",
-              "RelativeToolTip": "Domain\\projects\\TaskList\\tojbect\\FinishDataTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:52:19.969Z",
+              "WhenOpened": "2025-10-08T22:13:23.827Z",
               "EditorCaption": ""
             }
           ]

@@ -10,11 +10,11 @@ namespace Domain.projects.Tasks
 {
     internal class ProjectTask
     {
+
         public Project Project { get; private set; }
         public IdProject IdProject { get; private set; }
         public FinishDataTask FinishDataTask { get; private set; }
         public LvlImortance LvlImortance { get; private set; }
-        public MembersTask MembersTask { get; private set; }
         public Progres Progres { get; private set; }
         public StartDataTask StartDataTask { get; private set; }
         public TaskId TaskId { get; }
@@ -24,7 +24,6 @@ namespace Domain.projects.Tasks
             FinishDataTask finishDataTask,
             LvlImortance lvlImortance,
             Progres progres,
-            MembersTask membersTask,
             Project project)
         {
             Project = project;
@@ -34,7 +33,6 @@ namespace Domain.projects.Tasks
             FinishDataTask = finishDataTask;
             LvlImortance = lvlImortance;
             Progres = progres;            
-            MembersTask = membersTask;
         }
         
     }

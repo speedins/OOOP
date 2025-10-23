@@ -1,4 +1,5 @@
-﻿using Domain.projects.TaskList.tojbect;
+﻿using Domain.projects.pobject;
+using Domain.projects.TaskList.tojbect;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,22 +8,27 @@ using System.Threading.Tasks;
 
 namespace Domain.projects.Tasks
 {
-    internal class Task
+    internal class ProjectTask
     {
+        public Project Project { get; private set; }
+        public IdProject IdProject { get; private set; }
         public FinishDataTask FinishDataTask { get; private set; }
         public LvlImortance LvlImortance { get; private set; }
         public MembersTask MembersTask { get; private set; }
         public Progres Progres { get; private set; }
         public StartDataTask StartDataTask { get; private set; }
         public TaskId TaskId { get; }
-        public Task(
+        public ProjectTask(
             TaskId taskId,
             StartDataTask startDataTask,
             FinishDataTask finishDataTask,
             LvlImortance lvlImortance,
             Progres progres,
-            MembersTask membersTask)
+            MembersTask membersTask,
+            Project project)
         {
+            Project = project;
+            IdProject = project.IdProject;
             TaskId = taskId;
             StartDataTask = startDataTask;
             FinishDataTask = finishDataTask;
@@ -30,5 +36,6 @@ namespace Domain.projects.Tasks
             Progres = progres;            
             MembersTask = membersTask;
         }
+        
     }
 }

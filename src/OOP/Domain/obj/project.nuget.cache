@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ygGCzfz2HNo=",
+  "dgSpecHash": "HT7Y4COZac0=",
   "success": true,
-  "projectFilePath": "D:\\ladys\\src\\OOP\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\ladys-3adanie-5\\OOOP\\src\\OOP\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stud\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\stud\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

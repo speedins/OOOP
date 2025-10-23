@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ladys\\src\\OOP\\OOP\\OOP.csproj": {}
+    "D:\\ladys-3adanie-5\\OOOP\\src\\OOP\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "D:\\ladys\\src\\OOP\\OOP\\OOP.csproj": {
+    "D:\\ladys-3adanie-5\\OOOP\\src\\OOP\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ladys\\src\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "D:\\ladys-3adanie-5\\OOOP\\src\\OOP\\OOP\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "D:\\ladys\\src\\OOP\\OOP\\OOP.csproj",
+        "projectPath": "D:\\ladys-3adanie-5\\OOOP\\src\\OOP\\OOP\\OOP.csproj",
         "packagesPath": "C:\\Users\\stud\\.nuget\\packages\\",
-        "outputPath": "D:\\ladys\\src\\OOP\\OOP\\obj\\",
+        "outputPath": "D:\\ladys-3adanie-5\\OOOP\\src\\OOP\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

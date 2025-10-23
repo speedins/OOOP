@@ -8,8 +8,10 @@ namespace Domain.projects.TaskList.tojbect
 {
     internal record NameProject
     {
+        public const int MIN_VALUE_PROJECTNAME = 4;
+        public const int MAX_VALUE_PROJECTNAME = 30;
         public string ProjectNameValue { get; }
-        private NameProject(string username)
+        public NameProject(string username)
         {
             ProjectNameValue = username;
         }
@@ -19,11 +21,11 @@ namespace Domain.projects.TaskList.tojbect
             {
                 throw new ArgumentNullException("Название не может быть пустым");
             }
-            if (value.Length < 4)
+            if (value.Length < MIN_VALUE_PROJECTNAME)
             {
                 throw new ArgumentException("Название не должен быть короче 4 символов");
             }
-            if (value.Length > 30)
+            if (value.Length > MAX_VALUE_PROJECTNAME)
             {
                 throw new ArgumentException("Название не должен быть длинее 30 символов");
             }

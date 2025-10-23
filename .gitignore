@@ -15,6 +15,14 @@
 *.vsidx
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+*.db
+*.dtbcache.v2
+*.dtbcache
+*.futdcache.v2
+*.futdcache
+*.suo
+*.bin
+*.metadata
 
 # Mono auto generated files
 mono_crash.*
